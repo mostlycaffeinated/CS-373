@@ -1,2 +1,3 @@
 # CS-373
-Projects
+
+  Projects for Automata Theory and Formal Languages
